@@ -1,4 +1,4 @@
-package com.mybrowser.app;
+package com.hrf.aipro;
 
 import android.Manifest;
 import android.app.DownloadManager;
@@ -32,7 +32,7 @@ import java.net.URL;
 public class MainActivity extends AppCompatActivity {
 
     // آدرس صفحه اصلی خودت را اینجا بگذار
-    private static final String HOME_URL = "https://example.com";
+    private static final String HOME_URL = "https://arena.ai/image/direct";
 
     private WebView webView;
     private EditText addressBar;
